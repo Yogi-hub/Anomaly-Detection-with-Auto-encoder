@@ -39,7 +39,7 @@ python autoencoder_anomaly_detection.py
 1. The model is trained on **normal data**.
 2. It learns to reconstruct normal patterns accurately.
 3. Anomalies have **higher reconstruction errors**, making them detectable.
-4. The **OCAE** helps in learning richer features, improving detection accuracy.
+4. The **CAE** had the highest accuracy among the three.
 
 ## Author
 D. Yokesh
